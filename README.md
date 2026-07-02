@@ -15,7 +15,7 @@
 
 ## Explicacion
 
-    Se utilizo TreeSet<Persona> porque elimina duplicados automaticamente y mantiene el orden.Luego ordenamos con un comparador 
+    Se utilizo TreeSet<Persona> porque elimina duplicados automaticamente y mantiene el orden. Recorre la lista de personas y determina a qué grupo pertenece cada una según su edad.Luego obtiene solo el primer nombre de cada persona.Finalmente, agrega ese nombre al grupo correspondiente solo si no está repetido, y devuelve el mapa con los resultados.
 
 
 # Salida en terminal
