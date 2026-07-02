@@ -19,4 +19,4 @@
 
 
 # Salida en terminal
-![alt text](<Captura de pantalla 2026-06-30 215010.png>)
+![alt text](<assets/Captura de pantalla 2026-06-30 215010.png>)
